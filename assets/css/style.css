@@ -1,0 +1,17 @@
+i {
+  font-size: 100px;
+  padding: 0 10px 0 10px;
+}
+
+#skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+#skill-logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
